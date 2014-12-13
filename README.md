@@ -3,6 +3,11 @@ bash-update-script
 Just a very simple 3 command script made to semi-automate the update process.
 
 ---
+`apt-get update`
+`apt-get upgrade`
+`apt-get autoclean`
+
+---
 Features:
 * autoclean
 * update
